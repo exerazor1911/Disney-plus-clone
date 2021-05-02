@@ -4,34 +4,34 @@ import styled from 'styled-components'
 function Header() {
     return (
         <Nav>
-            <Logo src='/images/logo.svg' />
+            <Logo src='https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977529/logo_qftsgv.svg' />
             <NavMenu>
                 <a>
-                    <img src="/images/home-icon.svg" />
+                    <img src="https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977529/home-icon_rwfgf4.svg" />
                     <span>HOME</span>
                 </a>
                 <a>
-                    <img src="/images/search-icon.svg" />
+                    <img src="https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977532/search-icon_pkhmbz.svg" />
                     <span>SEARCH</span>
                 </a>
                 <a>
-                    <img src="/images/watchlist-icon.svg" />
+                    <img src="https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977534/watchlist-icon_w4twhm.svg" />
                     <span>WATCHLIST</span>
                 </a>
                 <a>
-                    <img src="/images/original-icon.svg" />
+                    <img src="https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977530/original-icon_ckzix0.svg" />
                     <span>ORIGINALS</span>
                 </a>
                 <a>
-                    <img src="/images/movie-icon.svg" />
+                    <img src="https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977530/movie-icon_y62c7x.svg" />
                     <span>MOVIES</span>
                 </a>
                 <a>
-                    <img src="/images/series-icon.svg" />
+                    <img src="https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977532/series-icon_kl3qpw.svg" />
                     <span>SERIES</span>
                 </a>
             </NavMenu>
-            <UserImg src='/images/profile-pic.jpeg'/>
+            <UserImg src='https://res.cloudinary.com/dm2gfj40h/image/upload/v1619977532/profile-pic_hd1dvx.jpg'/>
         </Nav>
     )
 }
@@ -44,6 +44,7 @@ const Nav = styled.nav`
     display: flex;
     align-items: center;
     padding: 0 36px;
+    overflow-x: hidden;
 `
 
 const Logo = styled.img`
