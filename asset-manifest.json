@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/Disney-plus-clone/static/css/main.e536fc42.chunk.css",
-    "main.js": "/Disney-plus-clone/static/js/main.4eba1f83.chunk.js",
-    "main.js.map": "/Disney-plus-clone/static/js/main.4eba1f83.chunk.js.map",
+    "main.css": "/Disney-plus-clone/static/css/main.962b4cd9.chunk.css",
+    "main.js": "/Disney-plus-clone/static/js/main.72574fe0.chunk.js",
+    "main.js.map": "/Disney-plus-clone/static/js/main.72574fe0.chunk.js.map",
     "runtime-main.js": "/Disney-plus-clone/static/js/runtime-main.cc9e56ab.js",
     "runtime-main.js.map": "/Disney-plus-clone/static/js/runtime-main.cc9e56ab.js.map",
-    "static/js/2.bfe563b2.chunk.js": "/Disney-plus-clone/static/js/2.bfe563b2.chunk.js",
-    "static/js/2.bfe563b2.chunk.js.map": "/Disney-plus-clone/static/js/2.bfe563b2.chunk.js.map",
+    "static/css/2.e50b1035.chunk.css": "/Disney-plus-clone/static/css/2.e50b1035.chunk.css",
+    "static/js/2.5107afd4.chunk.js": "/Disney-plus-clone/static/js/2.5107afd4.chunk.js",
+    "static/js/2.5107afd4.chunk.js.map": "/Disney-plus-clone/static/js/2.5107afd4.chunk.js.map",
     "index.html": "/Disney-plus-clone/index.html",
-    "static/css/main.e536fc42.chunk.css.map": "/Disney-plus-clone/static/css/main.e536fc42.chunk.css.map",
-    "static/js/2.bfe563b2.chunk.js.LICENSE.txt": "/Disney-plus-clone/static/js/2.bfe563b2.chunk.js.LICENSE.txt"
+    "static/css/2.e50b1035.chunk.css.map": "/Disney-plus-clone/static/css/2.e50b1035.chunk.css.map",
+    "static/css/main.962b4cd9.chunk.css.map": "/Disney-plus-clone/static/css/main.962b4cd9.chunk.css.map",
+    "static/js/2.5107afd4.chunk.js.LICENSE.txt": "/Disney-plus-clone/static/js/2.5107afd4.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Disney-plus-clone/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.cc9e56ab.js",
-    "static/js/2.bfe563b2.chunk.js",
-    "static/css/main.e536fc42.chunk.css",
-    "static/js/main.4eba1f83.chunk.js"
+    "static/css/2.e50b1035.chunk.css",
+    "static/js/2.5107afd4.chunk.js",
+    "static/css/main.962b4cd9.chunk.css",
+    "static/js/main.72574fe0.chunk.js"
   ]
 }
